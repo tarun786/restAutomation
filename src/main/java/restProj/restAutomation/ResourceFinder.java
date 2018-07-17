@@ -22,7 +22,7 @@ public class ResourceFinder {
 	public static String getSession() throws IOException
 	{
 		RestAssured.baseURI = getRestProp().getProperty("JiraHOST");
-	    Response res =	given().header("Content-Type","application/json").body("{ \"username\":\"tarunjaiswal92\", \"password\":\"T@run123\"}").
+	    Response res =	given().header("Content-Type","application/json").body("{ \"username\":\"tarun\", \"password\":\"xxxx\"}").
 		when().post("/rest/auth/1/session").
 		then().statusCode(200).extract().response();
 	    JsonPath jsonStr = RowDataConversion.rawJSON(res);
