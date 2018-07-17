@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="files"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/json-path-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/json-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/json-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/rest-assured-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/rest-assured-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/rest-assured-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/rest-assured-common-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/rest-assured-common-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/scala-support-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-mock-mvc-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/xml-path-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/xml-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/tarun/PRU vesrion/rest assuered jars/xml-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tjaiswal/Downloads/scribe-1.2.1.jar/scribe-1.2.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
